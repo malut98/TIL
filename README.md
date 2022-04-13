@@ -32,4 +32,4 @@
   - git log --oneline : 기록들 간략히 보기
 
  3. Github
-  - 회원가입 후 기본 설정
+  - [회원가입 후 기본 설정](https://github.com/malut98)
